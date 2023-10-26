@@ -20,17 +20,16 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Structural Bioinformatics
+title:                 SDEs & Diffusion Processes
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Course about protein structure analysis and other cool things like Protein Design,
-  Simulations and Visualisation.
+  Course about SDEs and Diffusion Processes with applications in generative modelling and other domains.
 
 
 # A shorter description for the sidebar.
-tagline:               PyMol \| Python \| Proteins
+tagline:               SDEs \| Scores \| Stochastics
 
 # A list of keywords for your blog
 keywords:              []
@@ -38,15 +37,15 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/lessons/pymol_logo.png
+logo:                  /assets/img/diffusion_logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Structural Bioinformatics
+  name:                SDEs & Diffusion Processes
   email:               kieran.didi@gmail.com
   picture:
-    path:              /assets/img/protein.png
-  about:               This course is about proteins and how to show that they are awesome
+    path:              /assets/img/sampling_space.png
+  about:               This course is SDEs and Diffusion Processes
   
 # # Used by `jekyll-seo-tag`:
 # twitter:             <username>
