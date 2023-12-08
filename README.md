@@ -12,15 +12,12 @@ The modules in this course are the following:
 | 4    	| Linear SDEs and the OU process  	|
 | 5    	| Time reversal               	|
 | 6    	| Doob's h-transform and conditioning SDEs                  	|
-| 7    	| Girsanov's Theorem, KL divergence in path space                  	|
-| 8    	| Half Bridges and Stochastic Control                         	|
-| 9    	| Feynman-Kac Formula and the path integral                      	| 
+| 7    	| Probablity flow and Flow Matching                  	|
+| 8    	| Girsanov's Theorem, KL divergence in path space                  	|
+| 9    	| Half Bridges and Stochastic Control                         	|
 | 10   	| Schroedinger Bridges             	| 
 
-These topics will be covered in X sessions. While the first session will be just us lecturing, the rest of the sessions will be lecturing in the first half and students presenting papers in the second half. You will present the following papers (30 minutes each):
-
-1. 
-2.
+These topics will be covered in 4 sessions.
 
 
 
